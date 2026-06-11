@@ -40,5 +40,6 @@
 ## Контакты
 
 * Email: [pankratova_anna2004@mail.ru](mailto:pankratova_anna2004@mail.ru)
-* GitHub: iamDolorem
-* HH.ru: ссылка на резюме
+* GitHub: [iamDolorem](https://github.com/iamDolorem)
+* HH.ru: [резюме Backend-разработчика](https://hh.ru/resume/4891509eff0aeed3fe0039ed1f746a6a544f53)
+
