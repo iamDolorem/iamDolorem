@@ -14,6 +14,8 @@
 * HTML, CSS, Svelte, Astro, Tailwind CSS
 * Postman, DevTools, Jira
 
+Ищу стажировку или junior-позицию в backend-разработке, где смогу развиваться в проектировании API, работе с базами данных и серверной архитектуре.
+
 ## Сейчас развиваюсь в направлениях
 
 * Backend-разработка
@@ -25,7 +27,7 @@
 
 ## Избранные проекты
 
-### Digital Products Marketplace
+### [Digital Products Marketplace](https://github.com/iamDolorem/pixio-digital-marketplace)
 
 Дипломный проект: web-приложение для продажи цифровых продуктов с ролями покупателя и продавца, каталогом, корзиной, заказами и серверной частью.
 
@@ -33,7 +35,7 @@
 
 **Стек:** C++, Drogon, PostgreSQL, Astro, Svelte, Tailwind CSS.
 
-### Effective Mobile test
+### [Effective Mobile test](https://github.com/iamDolorem/effective-mobile-test)
 
 Мини-проект с Python backend, nginx и Docker Compose. Backend доступен внутри docker-сети, наружу опубликован только nginx.
 
