@@ -7,6 +7,7 @@
 ## Основной стек
 
 * Python, C++, JavaScript
+* Django, Django REST Framework
 * REST API, HTTP, JSON
 * PostgreSQL, MySQL, SQL
 * Git, GitHub, Linux, Ubuntu
