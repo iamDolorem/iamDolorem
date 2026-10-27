@@ -72,6 +72,7 @@ Django web-сервис для учёта движения денежных ср
 ### [Effective Mobile test](https://github.com/iamDolorem/effective-mobile-test)
 
 Мини-проект с Python backend, nginx и Docker Compose. Backend доступен внутри docker-сети, наружу опубликован только nginx.
+
 **Стек:** Python, Docker, Docker Compose, nginx.
 
 ## Контакты
