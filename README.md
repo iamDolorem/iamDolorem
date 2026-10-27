@@ -6,18 +6,13 @@
 
 ## Основной стек
 
-* Python, C++, JavaScript
-* Django, Django REST Framework
-* REST API, HTTP, JSON
-* PostgreSQL, MySQL, SQL
-* Git, GitHub, Linux, Ubuntu
-* Docker, Docker Compose
-* HTML, CSS, Svelte, Astro, Tailwind CSS
-* Postman, DevTools, Jira
-* Go, FastAPI
-* Kubernetes, Helm
-* Prometheus, Grafana
-* Apache Kafka
+- **Языки:** Python, Go, C++, JavaScript
+- **Backend:** Django, Django REST Framework, FastAPI, REST API, HTTP, JSON
+- **Базы данных:** PostgreSQL, MySQL, SQLite, SQL
+- **Инфраструктура:** Docker, Docker Compose, Kubernetes, Helm, Linux, Nginx
+- **Мониторинг и интеграции:** Prometheus, Grafana, Apache Kafka
+- **Инструменты:** Git, GitHub, pytest, Postman, DevTools, Jira
+- **Дополнительно:** HTML, CSS, Svelte, Astro, Tailwind CSS
 
 Ищу стажировку или junior-позицию в backend-разработке, где смогу развиваться в проектировании API, работе с базами данных и серверной архитектуре.
 
@@ -28,7 +23,6 @@
 * PostgreSQL и работа с базами данных
 * Docker и базовая инфраструктура
 * Архитектура web-приложений
-* Подготовка к работе backend-разработчиком
 
 ## Избранные проекты
 
@@ -83,5 +77,4 @@ Django web-сервис для учёта движения денежных ср
 
 * Email: [pankratovaanna578@gmail.com](mailto:pankratovaanna578@gmail.com)
 * GitHub: [iamDolorem](https://github.com/iamDolorem)
-* HH.ru: [резюме Backend-разработчика](https://hh.ru/resume/4891509eff0aeed3fe0039ed1f746a6a544f53)
-
+* HH.ru: [резюме Backend-разработчика](https://hh.ru/resume/b230d225ff10dfb3dc0039ed1f5759424f4933)
