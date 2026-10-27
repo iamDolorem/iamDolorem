@@ -53,6 +53,22 @@ Django web-сервис для учёта движения денежных ср
 
 **Стек:** Python, Django, Django ORM, Django REST Framework, django-filter, SQLite, Bootstrap, JavaScript.
 
+### [Containerization & Orchestration](https://github.com/paniniLi/Semester_1-containerization_and_orchestration)
+
+Командный учебный проект по контейнеризации, оркестрации и эксплуатации приложений в Kubernetes.
+
+Реализованы развёртывание сервисов, настройка сетевого взаимодействия, мониторинг и алертинг, управление трафиком и автоматизация релизов.
+
+**Стек:** Docker, Kubernetes, Helm, Cilium, Prometheus, Grafana, Git.
+
+### [Industrial Backend Go](https://github.com/iamDolorem/industry_backend_go_autumn_2026)
+
+Учебный проект по backend-разработке на Go в рамках магистратуры ИТМО.
+
+Реализованы задачи по работе со структурами данных, конкурентному программированию, потокобезопасности, HTTP API и обработке ошибок.
+
+**Стек:** Go, HTTP, REST API, goroutines, channels, sync, Git.
+
 ### [Effective Mobile test](https://github.com/iamDolorem/effective-mobile-test)
 
 Мини-проект с Python backend, nginx и Docker Compose. Backend доступен внутри docker-сети, наружу опубликован только nginx.
