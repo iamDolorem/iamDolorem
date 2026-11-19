@@ -33,15 +33,6 @@
 В проекте реализованы клиент-серверная архитектура, REST API, работа с PostgreSQL, авторизация пользователей, разграничение ролей и базовая бизнес-логика marketplace.
 
 **Стек:** C++, Drogon, PostgreSQL, Astro, Svelte, Tailwind CSS.
-### [Student Progress Automation Bot](https://github.com/iamDolorem/student-progress-automation)
-
-Python-бот для автоматизации работы куратора онлайн-курсов.
-
-Проект решает реальные рутинные задачи: отслеживает новые домашние задания, отправляет уведомления в Telegram, подбирает шаблоны ответов, формирует еженедельные отчёты и обновляет Excel-таблицу прогресса после подтверждения.
-
-В проекте реализованы безопасный сценарий preview / confirm, работа с Telegram Bot API, автоматизация браузера через Playwright и обработка Excel-файлов.
-
-**Стек:** Python, Playwright, Telegram Bot API, openpyxl, requests, python-dotenv.
 
 ### [DDS Service](https://github.com/iamDolorem/dds-service)
 
